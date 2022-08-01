@@ -1,0 +1,26 @@
+ul{
+    list-style:none;
+    margin:15px 0px;
+    padding-left:0;
+    text-align: center;
+}
+
+li{
+    padding: 20px;
+    display:inline-block;
+    text-align: center;
+}
+
+a{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+}
+  
+a:hover{
+    color: rgb(221, 85, 85);
+    text-decoration: none;
+}
+
+.fa{ 
+    font-size:25px;
+}
